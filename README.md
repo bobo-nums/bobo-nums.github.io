@@ -1,1 +1,1 @@
-[Link](https://bobo-nums.github.io)
+[bobo-nums.github.io](https://bobo-nums.github.io)
